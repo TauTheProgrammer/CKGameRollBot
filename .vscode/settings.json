@@ -1,0 +1,11 @@
+{
+  "go.autocompleteUnimportedPackages": true,
+  "go.lintOnSave": "workspace",
+  "go.lintTool": "golangci-lint",
+  "gopls": {
+    "ui.semanticTokens": true,
+    "formatting.gofumpt": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "golang.go"
+}
